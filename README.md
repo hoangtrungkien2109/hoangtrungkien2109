@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Trung Kien
+- 👀 I’m interested in coding, researching, and broadening my horizons
+- 🌱 I’m currently learning Deep Learning Algorithms, especially I have curiosity about Large Language Models.
+- 📫 How to reach me: hoangtrungkien2109@gmail.com
